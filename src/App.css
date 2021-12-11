@@ -3,8 +3,9 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 55vmin;
   pointer-events: none;
+  margin: -100px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -35,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Nav-Image {
+  height: 10vmin;
+  pointer-events: none;
 }
